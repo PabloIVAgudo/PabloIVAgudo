@@ -1,4 +1,3 @@
-![Miniatura](https://user-images.githubusercontent.com/84361788/133519575-5a4936ae-d0e5-449d-8e11-f62ac0cbebe2.png)
 # Hi, I'm Pablo Agudo 👋
 
 I'm Full Stack Developer and Chemical Engineer. My interests are divided between technology, sports (especially Tennis and Athletics) and teather. 
