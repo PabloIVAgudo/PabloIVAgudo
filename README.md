@@ -42,4 +42,3 @@ I'm Full Stack Developer and Chemical Engineer. My interests are divided between
 
 <h2>My projects</h2>
 <h3><a href="https://github.com/PabloIVAgudo/Videogames" target="blank">VideoGames SPA</a></h3>
-[![YouTubeVideo](https://user-images.githubusercontent.com/84361788/133492279-8222b2d3-7cb8-4364-be2d-dfa4c30bfc88.png)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
