@@ -1,4 +1,5 @@
 # Hi, I'm Pablo Agudo 👋
+<hr/>
 
 I'm Full Stack Developer and Chemical Engineer. My interests are divided between technology, sports (especially Tenis and Athletics) and teather. 
 
