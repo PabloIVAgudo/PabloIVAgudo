@@ -6,8 +6,8 @@ I'm Full Stack Developer and Chemical Engineer. My interests are divided between
 🌱 - I'm currently learning **Mongoose** and **React Native**. <br/>
 
 <h3 align="left">What I know</h3>
-<p align="left">
-    <table>
+<p align="center">
+    <table border=0>
     <tr>
     <td><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a></td>
     <td><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/></a></td>
