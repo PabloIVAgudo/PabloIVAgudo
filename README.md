@@ -9,11 +9,11 @@ I'm Full Stack Developer and Chemical Engineer. My interests are divided between
 <p align="left">
   <span>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/></a> 
-    <p>CSS3</p>
+    <div>CSS3</div>
   </span>
   <span>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <span>Express</span>
+    <p>Express</p>
   </span>
    <span>
      <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
