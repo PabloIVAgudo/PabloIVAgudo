@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi, I'm Pablo Agudo 👋
+
+###I'm Full Stack Developer and Chemical Engineer. My interests are divided between technology, sports (especially Tenis and Athletics) and teather. 
+
+🔭 - I'm currently working on SoyHenry's graduation project (a team project).
+🌱 - I'm currently learning **Mongoose** and **React Native**.
+📫 - How to reach me: **agudopablo@gmail.com**
+
+Reach me in LinkedIn:
+
+<a href="https://www.linkedin.com/in/pabloiagudo" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/754/190/png-clipart-linkedin-computer-icons-organization-social-media-linkedin-logo-blue-text.png" alt="LinkedInLogo" height="30" width="40" /></a>
 
 <!--
 **PabloIVAgudo/PabloIVAgudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
