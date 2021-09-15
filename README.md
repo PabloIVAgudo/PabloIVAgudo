@@ -1,3 +1,4 @@
+![Miniatura](https://user-images.githubusercontent.com/84361788/133519575-5a4936ae-d0e5-449d-8e11-f62ac0cbebe2.png)
 # Hi, I'm Pablo Agudo 👋
 
 I'm Full Stack Developer and Chemical Engineer. My interests are divided between technology, sports (especially Tennis and Athletics) and teather. 
@@ -42,7 +43,7 @@ I'm Full Stack Developer and Chemical Engineer. My interests are divided between
 
 <h2>My projects</h2>
 <h3><a href="https://github.com/PabloIVAgudo/Videogames" target="blank">VideoGames SPA</a></h3>
-<p>Youtube video</p>
+<p>Video demo</p>
 
 [![YouTube video](https://user-images.githubusercontent.com/84361788/133494753-186acca7-1cdc-482d-bbf2-4f51dcdf9dff.png)
 ](https://www.youtube.com/watch?v=vUTBbwRzy1Q)
