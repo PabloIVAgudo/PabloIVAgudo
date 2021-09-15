@@ -8,7 +8,7 @@
 
 Reach me in LinkedIn:
 
-<a href="https://www.linkedin.com/in/pabloiagudo" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/754/190/png-clipart-linkedin-computer-icons-organization-social-media-linkedin-logo-blue-text.png" alt="LinkedInLogo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pabloiagudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
 <!--
 **PabloIVAgudo/PabloIVAgudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
