@@ -1,12 +1,12 @@
 # Hi, I'm Pablo Agudo 👋
 
-###I'm Full Stack Developer and Chemical Engineer. My interests are divided between technology, sports (especially Tenis and Athletics) and teather. 
+I'm Full Stack Developer and Chemical Engineer. My interests are divided between technology, sports (especially Tenis and Athletics) and teather. 
 
 🔭 - I'm currently working on SoyHenry's graduation project (a team project). <br/>
 🌱 - I'm currently learning **Mongoose** and **React Native**. <br/>
 📫 - How to reach me: **agudopablo@gmail.com** <br/>
 
-###Reach me in LinkedIn:
+##Reach me in LinkedIn:
 
 <a href="https://www.linkedin.com/in/pabloiagudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
