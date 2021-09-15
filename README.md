@@ -40,7 +40,7 @@ I'm Full Stack Developer and Chemical Engineer. My interests are divided between
 <a href="https://www.linkedin.com/in/pabloiagudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="mailto:agudopablo@gmail.com" target="blank"><img align="center" src="https://la10delfutbol.com/wp-content/uploads/2019/01/Gmail.png" height="30" width="40" /></a>
 
-<h3>My projects</h3><hr/>
-<h5><a href="https://github.com/PabloIVAgudo/Videogames" target="blank">VideoGames SPA</a></h5>
+<h3>My projects</h3>
+<h4><a href="https://github.com/PabloIVAgudo/Videogames" target="blank">VideoGames SPA</a></h4>
 
 
