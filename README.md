@@ -2,9 +2,9 @@
 
 ###I'm Full Stack Developer and Chemical Engineer. My interests are divided between technology, sports (especially Tenis and Athletics) and teather. 
 
-🔭 - I'm currently working on SoyHenry's graduation project (a team project). <hr/>
-🌱 - I'm currently learning **Mongoose** and **React Native**. <hr/>
-📫 - How to reach me: **agudopablo@gmail.com** <hr/>
+🔭 - I'm currently working on SoyHenry's graduation project (a team project). <br/>
+🌱 - I'm currently learning **Mongoose** and **React Native**. <br/>
+📫 - How to reach me: **agudopablo@gmail.com** <br/>
 
 ###Reach me in LinkedIn:
 
