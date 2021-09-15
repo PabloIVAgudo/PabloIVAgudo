@@ -24,7 +24,7 @@ I'm Full Stack Developer and Chemical Engineer. My interests are divided between
     <td>HTML5</td>
     <td>CSS3</td>
     <td>ExpressJS</td>
-    <td>  Git</td>
+    <td>&nbsp Git</td>
     <td>HTML5</td>
     <td>Javascript</td>
     <td>NodeJS</td>
