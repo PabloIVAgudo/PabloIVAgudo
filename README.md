@@ -28,7 +28,6 @@ I'm Full Stack Developer and Chemical Engineer. My interests are divided between
     <td>Git</td>
     <td>HTML5</td>
     <td>Javascript</td>
-    <td>Jacasript</td>
     <td>NodeJS</td>
     <td>PostgreSQL</td>
     <td>Postman</td>
