@@ -1,6 +1,6 @@
 # Hi, I'm Pablo Agudo 👋
 
-I'm Full Stack Developer and Chemical Engineer. My interests are divided between technology, sports (especially Tenis and Athletics) and teather. 
+I'm Full Stack Developer and Chemical Engineer. My interests are divided between technology, sports (especially Tennis and Athletics) and teather. 
 
 🔭 - I'm currently working on SoyHenry's graduation project (a team project). <br/>
 🌱 - I'm currently learning **Mongoose** and **React Native**. <br/>
@@ -45,4 +45,4 @@ I'm Full Stack Developer and Chemical Engineer. My interests are divided between
 <p>Youtube video</p>
 
 [![YouTube video](https://user-images.githubusercontent.com/84361788/133494753-186acca7-1cdc-482d-bbf2-4f51dcdf9dff.png)
-](https://https://www.youtube.com/watch?v=vUTBbwRzy1Q)
+](https://www.youtube.com/watch?v=vUTBbwRzy1Q)
