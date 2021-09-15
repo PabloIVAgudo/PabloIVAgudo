@@ -21,6 +21,20 @@ I'm Full Stack Developer and Chemical Engineer. My interests are divided between
     <td><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> </td>
     <td><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> </a></td>
     </tr>
+    </tr>
+    <td>HTML5</td>
+    <td>CSS3</td>
+    <td>ExpressJS</td>
+    <td>Git</td>
+    <td>HTML5</td>
+    <td>Javascript</td>
+    <td>Jacasript</td>
+    <td>NodeJS</td>
+    <td>PostgreSQL</td>
+    <td>Postman</td>
+    <td>ReactJS</td>
+    <td>Redux</td>
+    </tr>
     </table>
 </p>
 
