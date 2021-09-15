@@ -6,7 +6,7 @@ I'm Full Stack Developer and Chemical Engineer. My interests are divided between
 🌱 - I'm currently learning **Mongoose** and **React Native**. <br/>
 📫 - How to reach me: **agudopablo@gmail.com** <br/>
 
-##Reach me in LinkedIn:
+<h3>Reach me in LinkedIn:</h3>
 
 <a href="https://www.linkedin.com/in/pabloiagudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
