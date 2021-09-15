@@ -22,7 +22,7 @@ I'm Full Stack Developer and Chemical Engineer. My interests are divided between
     <td><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> </a></td>
     </tr>
     </tr>
-    <td style="font-size: 3px">HTML5</td>
+    <td>HTML5</td>
     <td>CSS3</td>
     <td>ExpressJS</td>
     <td>Git</td>
