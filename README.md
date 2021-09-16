@@ -49,6 +49,5 @@ I'm Full Stack Developer and Chemical Engineer. My interests are divided between
 
 <h2>Statistics</h2>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=PabloIVAgudo&show_icons=true&theme=dark&locale=es" alt="PabloIVAgudo" /></p>
-<div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PabloIVAgudo&show_icons=true&theme=dark&locale=es" alt="PabloIVAgudo" /></p></div>
 
 <div><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloIVAgudo&show_icons=true&theme=dark&locale=es&layout=compact" alt="PabloIVAgudo" /></p></div>
