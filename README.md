@@ -20,7 +20,7 @@ I'm Full Stack Developer and Chemical Engineer. My interests are divided between
     <td><a href="https://postman.com" target="_blank">&nbsp<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> </td>
     <td><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a></td>
     <td><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> </a></td>
-    </tr>
+    </tr>    
     <td>HTML5</td>
     <td>&nbsp CSS3</td>
     <td>ExpressJS</td>
@@ -32,6 +32,12 @@ I'm Full Stack Developer and Chemical Engineer. My interests are divided between
     <td>Postman</td>
     <td>ReactJS</td>
     <td>Redux</td>
+    </table>
+    <table>
+    <tr>
+    <td><a href="https://www.mongodb.com" target="_blank"> <img src="https://www.svgrepo.com/show/303232/mongodb-logo.svg" alt="mongoDB" width="70" height="50"/> </a></td> 
+    </tr>
+    <td>MongoDB</td>
     </table>
 </p>  
 
