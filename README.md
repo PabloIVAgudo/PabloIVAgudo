@@ -3,7 +3,7 @@
 I'm Full Stack Developer and Chemical Engineer. My interests are divided between technology, sports (especially Tennis and Athletics) and teather. 
 
 🔭 - I'm currently working on SoyHenry's graduation project (a team project). <br/>
-🌱 - I'm currently learning **Python and Django Rest Framework**. <br/>
+🌱 - I'm currently learning **Python and Django Framework**. <br/>
 
 <h2 align="left">What I know</h2>
 <p>
