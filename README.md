@@ -2,8 +2,8 @@
 
 I'm Full Stack Developer and Chemical Engineer. My interests are divided between technology, sports (especially Tennis and Athletics) and art. 
 
-🔭 - I'm currently working on SoyHenry's graduation project (a team project). <br/>
-🌱 - I'm currently learning **Python and Django Framework**. <br/>
+🔭 - I'm currently working on Outlier while writing my MSc thesis. <br/>
+🌱 - I'm currently learning **Python for Data Science**. <br/>
 
 <h2 align="left">What I know</h2>
 <p>
